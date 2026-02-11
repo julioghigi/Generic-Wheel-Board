@@ -2,6 +2,7 @@ VERSÃO 0.0.2
 Novos recursos adicionados:
     - Profiles save e open
     - Check de versão SW
+    - Check de versão FW
 Correções feitas:
     - Ativação da quantidade de leds
     - Corrigido comeando para atualização da placa
