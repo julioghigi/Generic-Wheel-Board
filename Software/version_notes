@@ -1,0 +1,11 @@
+VERSÃO 0.0.2
+Novos recursos adicionados:
+    - Profiles save e open
+    - Check de versão SW
+Correções feitas:
+    - Ativação da quantidade de leds
+    - Corrigido comeando para atualização da placa
+    - Removido Monitorar bateria temporariamente até implementação
+    - Removido Serial RX e Serial TX temporariamente até implementação
+Problemas conhecidos:
+    - Software pode travar se não encontrar a placa no inicio
