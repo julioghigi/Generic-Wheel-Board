@@ -36,3 +36,8 @@ A placa possui software próprio para personalização das entradas e _features_
 
 ## Futuro
 Diversos updates serão implementados, bem como toda documentação de suporte para uso.
+
+## Redes sociais
+Siga-nos no Instagram para ficar por dentro de todas as novidades!
+
+![QRCode_insta](https://github.com/user-attachments/assets/6463d8b0-38e6-4db5-9cde-66a5f403ca8c)
