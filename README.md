@@ -5,8 +5,8 @@ A _Generic Wheel Board_ é um produto da __GhiMa__ que fornece toda a eletrônic
 Com um ESP32S3 como cérebro, a placa fornece 32 entradas programáveis, comunicação USB, Bluetooth, WiFi, gerenciamento de bateria e USB HUB integrado permitindo conexão de telas e outros dispositivos USBs.
 
 _Features_:
-- 32 entradas separadas em 23 conectores, sendo 15 conectores de 2 pinos (GND e IN), 3 de 3 pinos (VCC, IN E GND), 4 conectores de 4 pinos com descrição de encoder (GND, IN, IN E IN) e 1 conector de 4 pinos com descrição serial (GND, IN, IN e VCC).
-- Telemetria SimHub via USB e WiFi (requer _Dongle_) para saída de leds progrmáveis.
+- 32 entradas, separadas em 23 conectores, sendo 15 conectores de 2 pinos (GND e IN), 3 de 3 pinos (VCC, IN E GND), 4 conectores de 4 pinos com descrição de encoder (GND, IN, IN E IN) e 1 conector de 4 pinos com descrição serial (GND, IN, IN e VCC).
+- Telemetria SimHub via USB e WiFi (requer _Dongle_) para saída de leds programáveis.
 - Joystick HID via USB ou Bluetooth.
 - Chip USB-SERIAL dedicado para maior estabilidade de comunicação.
 - 2 entradas USBs disponíveis para conexão de telas (VoCore ou USBD480) ou qualquer outro dispositivo USB.
