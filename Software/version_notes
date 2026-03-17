@@ -10,3 +10,7 @@ Correções feitas:
     - Removido Serial RX e Serial TX temporariamente até implementação
 Problemas conhecidos:
     - Software pode travar se não encontrar a placa no inicio
+
+VERSÃO 0.0.4
+Novos recursos adicionados:
+    - Nova opção de input: Botão com trava 
