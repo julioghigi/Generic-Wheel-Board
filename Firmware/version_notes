@@ -1,7 +1,12 @@
-VERSÃO 0.0.3
-Correções feitas:
-    - Corrigido situação onde o botão 5 ficava sempre ativado
+VERSÃO 0.0.5
+Novos recursos adicionados:
+    - Nova opção de input: Funky switch! Até 3 unidades.
+    - Expansão da quantidade de entradas com uso da placa de expansão, até 4 placas em série, totalizando mais 32 entradas (No momento só podem ser usadas com botões).
 
 VERSÃO 0.0.4
 Novos recursos adicionados:
     - Nova opção de input: Botão com trava 
+
+VERSÃO 0.0.3
+Correções feitas:
+    - Corrigido situação onde o botão 5 ficava sempre ativado
