@@ -1,3 +1,7 @@
+VERSÃO 0.0.6
+Novos recursos adicionados:
+    - Nova opção de input: Até 4 Rotary switchs via entrada analógica como encoder (entradas apareceram do input 33 em diante, terá conflito com placa de expansão, correção virá em breve).
+
 VERSÃO 0.0.5
 Novos recursos adicionados:
     - Nova opção de input: Funky switch! Até 3 unidades.
