@@ -1,3 +1,12 @@
+Versão 0.1.0
+    - Rotary Switch via entrada analógica pode ser configurado como encoder ou multi-função, sua saída começa no botão 64.
+    - Entradas da placa de expansão podem ser configuradas como qualquer outra entrada da placa (Encoders, funky, etc), exceto entradas que requiram leituras analógicas.
+    - Adicionado opção de nome customizado pro joystick.
+    - Protocolo 1.4 do SimHub.
+    - Novas opções de tela do SimHub.
+    - Nome e foto do Device do SimHub podem ser alterados.
+    - Nova forma otimizada de armazenamento interno.
+
 VERSÃO 0.0.6
 Novos recursos adicionados:
     - Nova opção de input: Até 4 Rotary switchs via entrada analógica como encoder (entradas apareceram do input 33 em diante, terá conflito com placa de expansão, correção virá em breve).
