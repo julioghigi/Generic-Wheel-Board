@@ -26,7 +26,7 @@ As 32 entradas podem ser programadas como:
 - Entrada para Funky switchs
 - Entrada para Rotary Switch via leitura analógica, atuando como encoder ou seletor de 12 posições
 
-As 32 entradas extras provindas da placa de expansão podem ser programadas como:
+As 32 entradas extras provindas das placas de expansão podem ser programadas como:
 - Entrada digital (botão)
 - Entrada Encoder (DT, CLK e SW)
 - Entrada para Hat Switch
