@@ -6,7 +6,7 @@ Com um ESP32S3 como cérebro, a placa fornece 32 entradas programáveis, comunic
 
 _Features_:
 - 32 entradas, separadas em 23 conectores, sendo 15 conectores de 2 pinos (GND e IN), 3 de 3 pinos (VCC, IN E GND), 4 conectores de 4 pinos com descrição de encoder (GND, IN, IN E IN) e 1 conector de 4 pinos com descrição serial (GND, IN, IN e VCC).
-- Entradas expandíeis por meio de placas de expansão (74HC165), permitindo um ganho de mais 32 entradas com o uso de 4 placas de expansão em série.
+- Entradas expandíveis por meio de placas de expansão (74HC165), permitindo um ganho de mais 32 entradas com o uso de 4 placas de expansão em série.
 - Telemetria SimHub via USB e WiFi (requer _Dongle_) para saída de leds programáveis e gerenciamento de telas.
 - Joystick HID via USB ou Bluetooth.
 - Chip USB-SERIAL dedicado para maior estabilidade de comunicação.
